@@ -1,4 +1,4 @@
-# *[Marie]: Nanoparticle-Protein/ADN Interaction Analysis
+# *[Marie]: Nanoparticle-Protein/ADN Interaction Analysis using a Deep Neural Network
 
 # ⚛️ This Artificial Intelligence solution is a tribute to Marie Curie (1867-1934). ⚛️
 <br>
